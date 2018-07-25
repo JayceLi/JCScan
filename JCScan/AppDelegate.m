@@ -31,14 +31,15 @@
     /// 测试代码 - ->我创建了一个DEV分支
     
     /// 测试代码 - ->我在这里创建了一行测试代码
+    
 
 
     return YES;
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
-    // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
-    // Use this method to pause ongoing tasks, disable timers, and throttle down OpenGL ES frame rates. Games should use this method to pause the game.
+    /// 这是我简历的第三个分支
+
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
