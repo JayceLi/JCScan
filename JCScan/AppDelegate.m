@@ -39,7 +39,6 @@
 
 - (void)applicationWillResignActive:(UIApplication *)application {
     /// 这是我简历的第三个分支
-
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
