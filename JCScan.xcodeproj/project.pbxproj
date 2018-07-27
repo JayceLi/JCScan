@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		11ADE5E5210ABAB100C070DC /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 11ADE5E4210ABAB100C070DC /* Test.m */; };
 		4818CF461CE7527000B5ACDC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4818CF451CE7527000B5ACDC /* main.m */; };
 		4818CF491CE7527000B5ACDC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4818CF481CE7527000B5ACDC /* AppDelegate.m */; };
 		4818CF4F1CE7527000B5ACDC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4818CF4D1CE7527000B5ACDC /* Main.storyboard */; };
@@ -68,6 +69,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		11ADE5E3210ABAB100C070DC /* Test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
+		11ADE5E4210ABAB100C070DC /* Test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
 		4068F93897F658A84454CA64 /* libPods-JCScan.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-JCScan.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4818CF411CE7527000B5ACDC /* JCScan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JCScan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4818CF451CE7527000B5ACDC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -198,6 +201,8 @@
 				4818CF7C1CE81E4C00B5ACDC /* Reader */,
 				4818CF471CE7527000B5ACDC /* AppDelegate.h */,
 				4818CF481CE7527000B5ACDC /* AppDelegate.m */,
+				11ADE5E3210ABAB100C070DC /* Test.h */,
+				11ADE5E4210ABAB100C070DC /* Test.m */,
 				4818CF4D1CE7527000B5ACDC /* Main.storyboard */,
 				4818CF521CE7527000B5ACDC /* LaunchScreen.storyboard */,
 				48A8ADBF1CEEF8E800CDA1DA /* Assets.xcassets */,
@@ -510,6 +515,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				48CAE4621CE9675500C463E0 /* NSArray+MASAdditions.m in Sources */,
+				11ADE5E5210ABAB100C070DC /* Test.m in Sources */,
 				48CAE4611CE9675500C463E0 /* MASViewConstraint.m in Sources */,
 				48CAE45E1CE9675500C463E0 /* MASConstraintMaker.m in Sources */,
 				48C988471CF3F0BC00ECAAC6 /* TOActivityChrome.m in Sources */,
