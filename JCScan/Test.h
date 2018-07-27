@@ -10,5 +10,6 @@
 
 @interface Test : NSObject
 
++(void)hello;
 
 @end

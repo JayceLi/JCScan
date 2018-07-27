@@ -10,4 +10,8 @@
 
 @implementation Test
 
++(void)hello{
+    NSLog(@"hello OC");
+}
+
 @end
