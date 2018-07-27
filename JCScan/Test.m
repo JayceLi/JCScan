@@ -14,4 +14,8 @@
     NSLog(@"hello OC");
 }
 
++(void)thisisTwoVeriosn{
+    NSLog(@"this is two version");
+}
+
 @end

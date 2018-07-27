@@ -12,4 +12,6 @@
 
 +(void)hello;
 
++(void)thisisTwoVeriosn;
+
 @end
